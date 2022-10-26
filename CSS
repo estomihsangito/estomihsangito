@@ -1,0 +1,18 @@
+body { background-color: black;
+} 
+p 
+  { front-size: 60px;
+ color: white; 
+Text-align: right; 
+padding-button: 0;
+} 
+button { height: 90px; width: 90px; 
+border: 1px solid black;
+border-radius: 45px;
+font-size: 30px; 
+font-weight: bold; 
+color: white; 
+Background-color: #424240; 
+margin-bottom: 13px; 
+margin-right: 6px;
+}
